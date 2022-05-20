@@ -1,0 +1,22 @@
+#background {
+    background-color: palegoldenrod;
+}
+
+#list {
+    color: black;
+    font-weight: 700;
+}
+
+#descript {
+    background-color: black;
+    color: white;
+}
+
+#ing {
+    background-color: green;
+}
+
+#step {
+    background-color: darkblue;
+    color: darkgray;
+}
